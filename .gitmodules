@@ -1,0 +1,6 @@
+[submodule "deps/v2rayNG"]
+	path = deps/v2rayNG
+	url = https://github.com/Arfedr/v2rayNG-Z-NET.git
+[submodule "deps/AndroidLibXrayLite-Z-NET"]
+	path = deps/AndroidLibXrayLite-Z-NET
+	url = https://github.com/Arfedr/AndroidLibXrayLite-Z-NET.git
